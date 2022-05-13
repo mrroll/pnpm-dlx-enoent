@@ -1,0 +1,16 @@
+lockfileVersion: 5.4
+
+importers:
+
+  ../../.local/share/pnpm/store/v3/tmp/dlx-89251:
+    specifiers:
+      cloc: ^2.9.0
+    dependencies:
+      cloc: 2.9.0
+
+packages:
+
+  /cloc/2.9.0:
+    resolution: {integrity: sha512-Eo97MtQ5nozSd5CFcYgwUg5Ej7GVcdopVd5T+SGwJc3VAmu0vNxV/ZDl06QAQhCUkM2EGKl8nhhP1BZuQXGiZg==}
+    hasBin: true
+    dev: false
